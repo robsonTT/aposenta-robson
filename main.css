@@ -5,11 +5,11 @@
   }
   
   body {
-    background-color: #ffd54f;
+    background-color: #000000;
   }
   
   .container {
-    color: #333;
+    color: rgb(255, 217, 0);
     text-align: center;
   }
   
